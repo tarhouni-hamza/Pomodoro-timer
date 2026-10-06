@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-A simple focus timer made with HTML, CSS and vanilla JavaScript. I built it while learning JS.
+A simple focus timer made with HTML, CSS and vanilla JavaScript. I built it while learning to help me focus .
 
 **Live demo:** coming soon
 
